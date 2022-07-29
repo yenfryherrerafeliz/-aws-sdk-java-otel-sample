@@ -85,12 +85,7 @@ This sample application also allows you to export to mysql. To do this just do t
     - OTEL_EXP_MYSQL_USER: the mysql user to use for the connection
     - OTEL_EXP_MYSQL_PASSWORD: the mysql password
     - OTEL_EXP_MYSQL_DB_NAME: the database name
-    - OTEL_EXP_DEFAULT=mysql: to use the mysql exporter 
-
-Example: 
-```console
-OTEL_EXP_MYSQL_HOST=localhost;OTEL_EXP_MYSQL_PORT=3306;OTEL_EXP_MYSQL_USER=admin;OTEL_EXP_MYSQL_PASSWORD=admin;OTEL_EXP_MYSQL_DB_NAME=mytestdatabase;OTEL_EXP_DEFAULT=mysql java -jar target/aws-sdk-java-otel.jar
-```
+    - OTEL_EXP_DEFAULT=mysql: to use the mysql exporter
 
 Here is a quick illustration from QuickSight:
 <img width="1440" alt="Screen Shot 2022-07-28 at 11 31 41 PM" src="https://user-images.githubusercontent.com/47982775/181697702-2df52e82-feac-4e75-ba46-fd30901f2e03.png">
