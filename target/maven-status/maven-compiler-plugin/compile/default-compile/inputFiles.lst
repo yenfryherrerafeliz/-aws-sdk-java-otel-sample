@@ -1,0 +1,16 @@
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/DynamoDbSampler.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/db/MySQLOperator.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/MySQLExporter.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/ConsoleExporter.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/db/MySQLDbConfig.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/SpanDataMapStructureFormatter.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/db/MappingField.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/utils/StringUtils.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/AppSetup.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/db/MySQLInsert.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/db/MySQLMapFieldsMapping.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/S3Sampler.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/db/exception/MissingFieldsException.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/db/FieldValue.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/otel_exporter/BaseExporter.java
+/Users/herrergy/Documents/dev/java/aws-sdk-java-otel-mi/aws-sdk-java-otel/src/main/java/com/herrergy/apps/App.java
